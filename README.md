@@ -1,4 +1,4 @@
-⭐ You might also like: the [Urchin](https://github.com/duckyb/urchin) keyboard ⭐
+⭐ You might also like: the [Urchin](https://github.com/duckyb/urchin) keyboard ⭐ 
 
 This layout is inspired by [Seniply by Stevep99](https://stevep99.github.io/seniply/)
 
